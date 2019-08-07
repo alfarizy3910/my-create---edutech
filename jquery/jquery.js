@@ -1,0 +1,4 @@
+
+        $('#carousel').carousel({
+        touch:false
+        });
